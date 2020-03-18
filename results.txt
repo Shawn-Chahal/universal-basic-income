@@ -1,0 +1,17 @@
+
+Universal Basic Income: $16500
+
+Scenario A
+Tax rate:               0.469
+Required tax revenue:   $234.2 billion
+New tax revenue:        $235.6 billion
+Crossover [Percentile]  0.591
+Crossover [Income]      $45504
+
+Scenario B
+Tax rate:               0.426
+Required tax revenue:   $169.7 billion
+New tax revenue:        $169.9 billion
+Crossover [Percentile]  0.666
+Crossover [Income]      $53602
+
